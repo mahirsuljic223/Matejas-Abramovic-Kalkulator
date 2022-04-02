@@ -1,0 +1,11 @@
+C:\Users\Mahir\source\repos\Kalkulator\Kalkulator\bin\Release\Kalkulator.exe.config
+C:\Users\Mahir\source\repos\Kalkulator\Kalkulator\bin\Release\Kalkulator.exe
+C:\Users\Mahir\source\repos\Kalkulator\Kalkulator\bin\Release\Kalkulator.pdb
+C:\Users\Mahir\source\repos\Kalkulator\Kalkulator\obj\Release\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\Mahir\source\repos\Kalkulator\Kalkulator\obj\Release\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mahir\source\repos\Kalkulator\Kalkulator\obj\Release\Kalkulator.Main.resources
+C:\Users\Mahir\source\repos\Kalkulator\Kalkulator\obj\Release\Kalkulator.Properties.Resources.resources
+C:\Users\Mahir\source\repos\Kalkulator\Kalkulator\obj\Release\Kalkulator.csproj.GenerateResource.cache
+C:\Users\Mahir\source\repos\Kalkulator\Kalkulator\obj\Release\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Mahir\source\repos\Kalkulator\Kalkulator\obj\Release\Kalkulator.exe
+C:\Users\Mahir\source\repos\Kalkulator\Kalkulator\obj\Release\Kalkulator.pdb
